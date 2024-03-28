@@ -29,14 +29,39 @@
       "price": 6
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "produtinho",
       "price": 6
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "produtao",
       "price": 6
+    },
+    {
+      "id": "1eeb",
+      "name": "teste",
+      "price": 125.98
+    },
+    {
+      "id": "dfc4",
+      "name": "asas",
+      "price": "123"
+    },
+    {
+      "id": "4718",
+      "name": "outro",
+      "price": "120"
+    },
+    {
+      "id": "6c83",
+      "name": "response",
+      "price": "123"
+    },
+    {
+      "id": "f98e",
+      "name": "",
+      "price": null
     }
   ]
 }
