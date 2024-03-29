@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+}
+
+i{
+    color: #632c6c;
+    cursor: pointer;
+    margin-right: 15px;
+}

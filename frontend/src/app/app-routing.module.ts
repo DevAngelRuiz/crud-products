@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from './views/home/home.component';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
+import { ProductUdpateComponent } from './components/product/product-udpate/product-udpate.component';
 
 
 const routes: Routes = [{
@@ -15,7 +16,15 @@ const routes: Routes = [{
 },
 {
   path: 'products/create',
-  component: ProductCreateComponent},];
+  component: ProductCreateComponent
+},
+{
+  path: 'products/update/:id',
+  component: ProductUdpateComponent
+}
+
+
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

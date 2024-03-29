@@ -20,3 +20,11 @@
     color: #5a198b;
 }
 
+.mat-toolbar-row, .mat-toolbar-single-row {
+    padding: 0;
+}
+
+img{
+    width: 120%;
+}
+

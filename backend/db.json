@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": "1",
-      "name": "product1",
-      "price": 10
-    },
-    {
       "id": "2",
       "name": "product2",
       "price": 20
@@ -14,9 +9,6 @@
       "id": "3",
       "name": "product3",
       "price": 50
-    },
-    {
-      "id": "e61b"
     },
     {
       "id": "7ac5",
@@ -30,8 +22,8 @@
     },
     {
       "id": "50",
-      "name": "produtinho",
-      "price": 6
+      "name": "produtinhos",
+      "price": "600"
     },
     {
       "id": "50",
@@ -42,26 +34,6 @@
       "id": "1eeb",
       "name": "teste",
       "price": 125.98
-    },
-    {
-      "id": "dfc4",
-      "name": "asas",
-      "price": "123"
-    },
-    {
-      "id": "4718",
-      "name": "outro",
-      "price": "120"
-    },
-    {
-      "id": "6c83",
-      "name": "response",
-      "price": "123"
-    },
-    {
-      "id": "f98e",
-      "name": "",
-      "price": null
     }
   ]
 }
